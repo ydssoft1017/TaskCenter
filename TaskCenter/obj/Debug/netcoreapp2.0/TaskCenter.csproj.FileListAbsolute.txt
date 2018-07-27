@@ -1,0 +1,11 @@
+E:\代码学习\TaskCenter\TaskCenter\bin\Debug\netcoreapp2.0\TaskCenter.deps.json
+E:\代码学习\TaskCenter\TaskCenter\bin\Debug\netcoreapp2.0\TaskCenter.runtimeconfig.json
+E:\代码学习\TaskCenter\TaskCenter\bin\Debug\netcoreapp2.0\TaskCenter.runtimeconfig.dev.json
+E:\代码学习\TaskCenter\TaskCenter\bin\Debug\netcoreapp2.0\TaskCenter.dll
+E:\代码学习\TaskCenter\TaskCenter\bin\Debug\netcoreapp2.0\TaskCenter.pdb
+E:\代码学习\TaskCenter\TaskCenter\obj\Debug\netcoreapp2.0\TaskCenter.csprojAssemblyReference.cache
+E:\代码学习\TaskCenter\TaskCenter\obj\Debug\netcoreapp2.0\TaskCenter.csproj.CoreCompileInputs.cache
+E:\代码学习\TaskCenter\TaskCenter\obj\Debug\netcoreapp2.0\TaskCenter.AssemblyInfoInputs.cache
+E:\代码学习\TaskCenter\TaskCenter\obj\Debug\netcoreapp2.0\TaskCenter.AssemblyInfo.cs
+E:\代码学习\TaskCenter\TaskCenter\obj\Debug\netcoreapp2.0\TaskCenter.dll
+E:\代码学习\TaskCenter\TaskCenter\obj\Debug\netcoreapp2.0\TaskCenter.pdb

@@ -1,0 +1,5 @@
+E:\代码学习\TaskCenter\QuartzService\bin\Debug\netcoreapp2.0\QuartzService.deps.json
+E:\代码学习\TaskCenter\QuartzService\bin\Debug\netcoreapp2.0\QuartzService.dll
+E:\代码学习\TaskCenter\QuartzService\obj\Debug\netcoreapp2.0\QuartzService.csproj.CoreCompileInputs.cache
+E:\代码学习\TaskCenter\QuartzService\obj\Debug\netcoreapp2.0\QuartzService.AssemblyInfoInputs.cache
+E:\代码学习\TaskCenter\QuartzService\obj\Debug\netcoreapp2.0\QuartzService.AssemblyInfo.cs
